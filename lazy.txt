@@ -1,4 +1,4 @@
-! ----Updatetime: 2020-08-30 11:49:24 by:Mr.K----
+! ----Updatetime: 2020-08-30 21:34:03 by:Mr.K----
 ! title: 乘风 广告过滤规则
 ! Version: 202008031
 ! Expires: 2 days
